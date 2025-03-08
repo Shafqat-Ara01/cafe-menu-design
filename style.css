@@ -1,0 +1,122 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f5f5dc;
+}
+#manue {
+  background-color: #1e2a38;
+  width: 500px;
+  border-radius: 20px;
+  padding: 10px;
+  box-sizing: border-box;
+  box-shadow: 5px 5px 10px gray;
+  padding-bottom: 20px;
+}
+h1 {
+  text-align: center;
+  margin: 10px;
+  font-family: Playfair Display;
+  color: #fdf6e3;
+}
+#Est {
+  text-align: center;
+  color: #fdf6e3;
+}
+.small-space {
+  height: 5px;
+  background-color: #d4af37;
+  margin: 5px;
+}
+h2,
+.emoji {
+  text-align: center;
+  color: #fdf6e3;
+}
+h2 {
+  margin: 5px;
+  font-family: "Times New Roman", Times, serif;
+  color: #fdf6e3;
+}
+#vanilla {
+  display: flex;
+  justify-content: space-between;
+  font-family: poppins;
+  font-size: 15px;
+  color: #fdf6e3;
+}
+#caramel {
+  display: flex;
+  justify-content: space-between;
+  font-family: poppins;
+  font-size: 15px;
+  color: #fdf6e3;
+}
+#pumpkin {
+  display: flex;
+  justify-content: space-between;
+  font-family: poppins;
+  font-size: 15px;
+  color: #fdf6e3;
+}
+#Hazienut {
+  display: flex;
+  justify-content: space-between;
+  font-family: poppins;
+  font-size: 15px;
+  color: #fdf6e3;
+}
+#Mocha {
+  display: flex;
+  justify-content: space-between;
+  font-family: poppins;
+  font-size: 15px;
+  color: #fdf6e3;
+}
+#donut {
+  display: flex;
+  justify-content: space-between;
+  font-family: poppins;
+  font-size: 15px;
+  color: #fdf6e3;
+}
+#Cherry {
+  display: flex;
+  justify-content: space-between;
+  font-family: poppins;
+  font-size: 15px;
+  color: #fdf6e3;
+}
+#Cheesecake {
+  display: flex;
+  justify-content: space-between;
+  font-family: poppins;
+  font-size: 15px;
+  color: #fdf6e3;
+}
+#Chinnamon {
+  display: flex;
+  justify-content: space-between;
+  font-family: poppins;
+  font-size: 15px;
+  color: #fdf6e3;
+}
+#visit p {
+  text-align: center;
+  font-family: poppins;
+  font-size: 15px;
+  margin: 0;
+  color: #fdf6e3;
+}
+#visit a {
+  text-decoration: none;
+  font-family: poppins;
+  font-size: 13px;
+
+  color: #fdf6e3;
+}
+#visit a:hover {
+  color: #d4af37;
+  font-size: 15px;
+}
