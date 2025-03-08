@@ -11,7 +11,6 @@ A beautifully designed café menu web application that showcases food and drink 
 - ## 🛠️ Technologies Used
 - HTML  
 - CSS  
-- JavaScript
 
 - ## 🚀 Live Demo  
 Check out the live version of the project here:  
