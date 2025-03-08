@@ -1,17 +1,24 @@
-# Cafe Menu Web
+# ☕ Café Menu - A Simple & Elegant Digital Menu  
 
-A beautifully designed café menu web application that showcases food and drink items in an interactive and user-friendly way. Built with modern web technologies for a smooth and engaging user experience.
+This is a **responsive café menu** designed using **HTML & CSS**, featuring a sleek, modern, and easy-to-read layout. The project showcases different coffee and dessert items in a well-structured format, inspired by real-world café menus.  
 
-## 📌 Features
-- Responsive and modern UI design  
-- Easy navigation for menu items  
-- Interactive and visually appealing layout  
-- Optimized for all devices
+---
 
-- ## 🛠️ Technologies Used
-- HTML  
-- CSS  
+## 🎨 Features  
 
+✅ **Minimalist & Elegant Design** – Dark-themed menu with warm beige accents  
+✅ **Responsive Layout** – Adjusts smoothly across different screen sizes  
+✅ **Typography** – Uses **Playfair Display & Poppins** for a premium look  
+✅ **Hover Effects** – Interactive styling for a polished user experience  
+
+## 🛠️ Technologies Used  
+
+- **HTML** – Structure & layout  
+- **CSS** – Styling & responsiveness  
+- **Google Fonts** – Custom typography  
+- **Font Awesome** – Icons for added aesthetics
+
+- 
 - ## 🚀 Live Demo  
 Check out the live version of the project here:  
 [👉 CafeBite Live Demo](https://cafebite.netlify.app/)
