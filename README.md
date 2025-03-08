@@ -11,14 +11,19 @@ This is a **responsive café menu** designed using **HTML & CSS**, featuring a s
 ✅ **Typography** – Uses **Playfair Display & Poppins** for a premium look  
 ✅ **Hover Effects** – Interactive styling for a polished user experience  
 
+---
+
+
 ## 🛠️ Technologies Used  
 
 - **HTML** – Structure & layout  
 - **CSS** – Styling & responsiveness  
 - **Google Fonts** – Custom typography  
-- **Font Awesome** – Icons for added aesthetics
+  
 
-- 
+---
+
+ 
 - ## 🚀 Live Demo  
 Check out the live version of the project here:  
 [👉 CafeBite Live Demo](https://cafebite.netlify.app/)
